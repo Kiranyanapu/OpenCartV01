@@ -1,0 +1,17 @@
+2024-10-18 11:54:51 INFO  TC_02_LoginPage:16 - ****Test Started****
+2024-10-18 11:54:51 INFO  TC_02_LoginPage:31 - Clicked on email
+2024-10-18 11:54:53 INFO  TC_02_LoginPage:24 - Clicked on MyAccount option
+2024-10-18 11:54:53 INFO  TC_02_LoginPage:49 - ********Test case is completed********
+2024-10-18 11:54:53 INFO  TC_02_LoginPage:26 - Clicked on Login option
+2024-10-18 11:54:53 INFO  TC_02_LoginPage:31 - Clicked on email
+2024-10-18 11:54:55 INFO  TC_02_LoginPage:49 - ********Test case is completed********
+2024-10-18 12:16:44 INFO  TC_02_LoginPage:16 - ****Test Started****
+2024-10-18 12:16:45 INFO  TC_02_LoginPage:24 - Clicked on MyAccount option
+2024-10-18 12:16:45 INFO  TC_02_LoginPage:26 - Clicked on Login option
+2024-10-18 12:16:45 INFO  TC_02_LoginPage:31 - Clicked on email
+2024-10-18 12:16:46 INFO  TC_02_LoginPage:49 - ********Test case is completed********
+2024-10-18 14:29:02 INFO  TC_02_LoginPage:16 - ****Test Started****
+2024-10-18 14:29:03 INFO  TC_02_LoginPage:24 - Clicked on MyAccount option
+2024-10-18 14:29:03 INFO  TC_02_LoginPage:26 - Clicked on Login option
+2024-10-18 14:29:04 INFO  TC_02_LoginPage:31 - Clicked on email
+2024-10-18 14:29:05 INFO  TC_02_LoginPage:49 - ********Test case is completed********
